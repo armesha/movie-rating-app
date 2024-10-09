@@ -1,0 +1,712 @@
+[
+  {
+    "Id": 10,
+    "Title": "Shadows of Time",
+    "ReleaseYear": 1996,
+    "Director": "Martin Scorsese",
+    "Genre": "Drama",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 11,
+    "Title": "Whispers in the Dark",
+    "ReleaseYear": 2003,
+    "Director": "Alfred Hitchcock",
+    "Genre": "Thriller",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 12,
+    "Title": "Echoes of War",
+    "ReleaseYear": 1998,
+    "Director": "Steven Spielberg",
+    "Genre": "Historical",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 13,
+    "Title": "Midnight Reverie",
+    "ReleaseYear": 2012,
+    "Director": "Christopher Nolan",
+    "Genre": "Mystery",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 14,
+    "Title": "Lost Horizons",
+    "ReleaseYear": 1994,
+    "Director": "Akira Kurosawa",
+    "Genre": "Adventure",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 15,
+    "Title": "Crimson Tides",
+    "ReleaseYear": 2010,
+    "Director": "Quentin Tarantino",
+    "Genre": "Action",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 16,
+    "Title": "Enchanted Evening",
+    "ReleaseYear": 2005,
+    "Director": "Wes Anderson",
+    "Genre": "Comedy",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 17,
+    "Title": "Rivers of Fate",
+    "ReleaseYear": 2014,
+    "Director": "Clint Eastwood",
+    "Genre": "Western",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 18,
+    "Title": "Infinite Dreams",
+    "ReleaseYear": 2000,
+    "Director": "Ridley Scott",
+    "Genre": "Science Fiction",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 19,
+    "Title": "Mysteries of the Heart",
+    "ReleaseYear": 2018,
+    "Director": "David Fincher",
+    "Genre": "Romance",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 20,
+    "Title": "The Lost Specter",
+    "ReleaseYear": 2008,
+    "Director": "Guillermo del Toro",
+    "Genre": "Horror",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 21,
+    "Title": "Empire of Shadows",
+    "ReleaseYear": 1995,
+    "Director": "John Huston",
+    "Genre": "Historical",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 22,
+    "Title": "Eternal City",
+    "ReleaseYear": 2009,
+    "Director": "Federico Fellini",
+    "Genre": "Fantasy",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 23,
+    "Title": "Secrets of the Sands",
+    "ReleaseYear": 2001,
+    "Director": "Sergio Leone",
+    "Genre": "Western",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 24,
+    "Title": "Forgotten Melodies",
+    "ReleaseYear": 1992,
+    "Director": "Ingmar Bergman",
+    "Genre": "Drama",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 25,
+    "Title": "Whispering Shadows",
+    "ReleaseYear": 1997,
+    "Director": "Billy Wilder",
+    "Genre": "Mystery",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 26,
+    "Title": "Ghosts of the Past",
+    "ReleaseYear": 2004,
+    "Director": "Orson Welles",
+    "Genre": "Thriller",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 27,
+    "Title": "Under the Stars",
+    "ReleaseYear": 2015,
+    "Director": "Francis Ford Coppola",
+    "Genre": "Romance",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 28,
+    "Title": "Moonlit Sonata",
+    "ReleaseYear": 1991,
+    "Director": "Woody Allen",
+    "Genre": "Drama",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 29,
+    "Title": "Blades of Glory",
+    "ReleaseYear": 2016,
+    "Director": "John Ford",
+    "Genre": "Action",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 30,
+    "Title": "Echoes of Silence",
+    "ReleaseYear": 2019,
+    "Director": "Ingmar Bergman",
+    "Genre": "Drama",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 31,
+    "Title": "The Last Duel",
+    "ReleaseYear": 2020,
+    "Director": "Ridley Scott",
+    "Genre": "Historical",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 32,
+    "Title": "Desert Winds",
+    "ReleaseYear": 1993,
+    "Director": "Sergio Leone",
+    "Genre": "Western",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 33,
+    "Title": "Dreams of the Forgotten",
+    "ReleaseYear": 1999,
+    "Director": "Akira Kurosawa",
+    "Genre": "Fantasy",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 34,
+    "Title": "Vortex",
+    "ReleaseYear": 2006,
+    "Director": "David Fincher",
+    "Genre": "Thriller",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 35,
+    "Title": "Iron Heart",
+    "ReleaseYear": 1995,
+    "Director": "James Cameron",
+    "Genre": "Science Fiction",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 36,
+    "Title": "Ocean's Whisper",
+    "ReleaseYear": 2011,
+    "Director": "Peter Jackson",
+    "Genre": "Adventure",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 37,
+    "Title": "Silent Echoes",
+    "ReleaseYear": 1992,
+    "Director": "John Huston",
+    "Genre": "Drama",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 38,
+    "Title": "The Forgotten Isle",
+    "ReleaseYear": 2007,
+    "Director": "Guillermo del Toro",
+    "Genre": "Fantasy",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 39,
+    "Title": "Midnight Masquerade",
+    "ReleaseYear": 1998,
+    "Director": "Roman Polanski",
+    "Genre": "Mystery",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 40,
+    "Title": "Lanterns in the Fog",
+    "ReleaseYear": 2005,
+    "Director": "Joel and Ethan Coen",
+    "Genre": "Comedy",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 41,
+    "Title": "The Golden Hour",
+    "ReleaseYear": 2017,
+    "Director": "John Ford",
+    "Genre": "Historical",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 42,
+    "Title": "Veil of Dreams",
+    "ReleaseYear": 1990,
+    "Director": "Wes Anderson",
+    "Genre": "Fantasy",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 43,
+    "Title": "Echoes of the Abyss",
+    "ReleaseYear": 2019,
+    "Director": "Stanley Kubrick",
+    "Genre": "Horror",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 44,
+    "Title": "The Last Script",
+    "ReleaseYear": 1996,
+    "Director": "Billy Wilder",
+    "Genre": "Drama",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 45,
+    "Title": "Beneath the Stars",
+    "ReleaseYear": 2018,
+    "Director": "Federico Fellini",
+    "Genre": "Romance",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 46,
+    "Title": "Crimson Dusk",
+    "ReleaseYear": 2002,
+    "Director": "Sergio Leone",
+    "Genre": "Western",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 47,
+    "Title": "Shadowed Paths",
+    "ReleaseYear": 2010,
+    "Director": "Orson Welles",
+    "Genre": "Mystery",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 48,
+    "Title": "Voices in the Mist",
+    "ReleaseYear": 2001,
+    "Director": "Clint Eastwood",
+    "Genre": "Thriller",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 49,
+    "Title": "Infinite Horizon",
+    "ReleaseYear": 2014,
+    "Director": "James Cameron",
+    "Genre": "Science Fiction",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 50,
+    "Title": "The Eternal Flame",
+    "ReleaseYear": 1993,
+    "Director": "Ingmar Bergman",
+    "Genre": "Drama",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 51,
+    "Title": "Glimmers of Hope",
+    "ReleaseYear": 2007,
+    "Director": "Woody Allen",
+    "Genre": "Comedy",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 52,
+    "Title": "The Whispering Plains",
+    "ReleaseYear": 2016,
+    "Director": "John Huston",
+    "Genre": "Western",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 53,
+    "Title": "Silent Reflections",
+    "ReleaseYear": 1994,
+    "Director": "Roman Polanski",
+    "Genre": "Drama",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 54,
+    "Title": "Twilight's Last Gleaming",
+    "ReleaseYear": 2003,
+    "Director": "John Ford",
+    "Genre": "Western",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 55,
+    "Title": "The Forgotten City",
+    "ReleaseYear": 2011,
+    "Director": "Federico Fellini",
+    "Genre": "Fantasy",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 56,
+    "Title": "Sands of Time",
+    "ReleaseYear": 1999,
+    "Director": "Stanley Kubrick",
+    "Genre": "Mystery",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 57,
+    "Title": "Chasing Echoes",
+    "ReleaseYear": 2017,
+    "Director": "Woody Allen",
+    "Genre": "Romance",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 58,
+    "Title": "Beneath the Moon",
+    "ReleaseYear": 2008,
+    "Director": "Clint Eastwood",
+    "Genre": "Drama",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 59,
+    "Title": "Ghosts of the Deep",
+    "ReleaseYear": 2000,
+    "Director": "James Cameron",
+    "Genre": "Adventure",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 60,
+    "Title": "Nights of Silence",
+    "ReleaseYear": 2014,
+    "Director": "Ingmar Bergman",
+    "Genre": "Thriller",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 61,
+    "Title": "The Last Melody",
+    "ReleaseYear": 2005,
+    "Director": "Billy Wilder",
+    "Genre": "Comedy",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 62,
+    "Title": "Winter's Breath",
+    "ReleaseYear": 2016,
+    "Director": "Sergio Leone",
+    "Genre": "Historical",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 63,
+    "Title": "Voices of the Forgotten",
+    "ReleaseYear": 1995,
+    "Director": "Guillermo del Toro",
+    "Genre": "Horror",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 64,
+    "Title": "Echoes of Tomorrow",
+    "ReleaseYear": 2012,
+    "Director": "Peter Jackson",
+    "Genre": "Science Fiction",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 65,
+    "Title": "Pathways of the Mind",
+    "ReleaseYear": 2001,
+    "Director": "David Fincher",
+    "Genre": "Mystery",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 66,
+    "Title": "The Veil of Night",
+    "ReleaseYear": 2018,
+    "Director": "John Huston",
+    "Genre": "Thriller",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 67,
+    "Title": "The Crimson Tide",
+    "ReleaseYear": 1997,
+    "Director": "Roman Polanski",
+    "Genre": "Horror",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 68,
+    "Title": "Dance of the Moon",
+    "ReleaseYear": 2018,
+    "Director": "Wes Anderson",
+    "Genre": "Romance",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 69,
+    "Title": "Eternal Shadows",
+    "ReleaseYear": 2001,
+    "Director": "Clint Eastwood",
+    "Genre": "Drama",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 70,
+    "Title": "Forgotten Roads",
+    "ReleaseYear": 2002,
+    "Director": "Stanley Kubrick",
+    "Genre": "Mystery",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 71,
+    "Title": "Heartbeat",
+    "ReleaseYear": 1996,
+    "Director": "Joel and Ethan Coen",
+    "Genre": "Comedy",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 72,
+    "Title": "In the Silence of the Night",
+    "ReleaseYear": 2013,
+    "Director": "Billy Wilder",
+    "Genre": "Thriller",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 73,
+    "Title": "Journey Beyond the Stars",
+    "ReleaseYear": 2004,
+    "Director": "James Cameron",
+    "Genre": "Science Fiction",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 74,
+    "Title": "Lost in the Mist",
+    "ReleaseYear": 1999,
+    "Director": "Ingmar Bergman",
+    "Genre": "Drama",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 75,
+    "Title": "Moonlight Sonata",
+    "ReleaseYear": 2006,
+    "Director": "Federico Fellini",
+    "Genre": "Romance",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 76,
+    "Title": "Nightmare Alley",
+    "ReleaseYear": 2007,
+    "Director": "Guillermo del Toro",
+    "Genre": "Horror",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 77,
+    "Title": "Orchestra of the Damned",
+    "ReleaseYear": 2016,
+    "Director": "Sergio Leone",
+    "Genre": "Western",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 78,
+    "Title": "The Painter's Dream",
+    "ReleaseYear": 2010,
+    "Director": "Peter Jackson",
+    "Genre": "Fantasy",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 79,
+    "Title": "Quiet Desperation",
+    "ReleaseYear": 1992,
+    "Director": "David Fincher",
+    "Genre": "Thriller",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  },
+  {
+    "Id": 80,
+    "Title": "The Road Home",
+    "ReleaseYear": 2005,
+    "Director": "John Huston",
+    "Genre": "Drama",
+    "ReviewCount": 0,
+    "Ratings": [],
+    "AverageRating": 0
+  }
+]
