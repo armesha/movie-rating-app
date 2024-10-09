@@ -30,7 +30,7 @@
 
 1. **Naklonujte repozitář**: Stáhněte projekt pomocí příkazu:
    ```sh
-   git clone <URL>
+   git clone https://github.com/armesha/movie-rating-app.git
    ```
 2. **Otevřete projekt**: Otevřete projekt v IDE, jako je Visual Studio.
 3. **Sestavte projekt**: Klikněte na "Build" nebo použijte zkratku Ctrl + Shift + B.
